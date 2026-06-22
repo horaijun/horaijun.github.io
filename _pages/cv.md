@@ -11,54 +11,53 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Chemical Engineering, Sungkyunkwan University (SKKU), Suwon, Korea, Mar. 2021 – Present
+  * GPA: 4.14 / 4.5
 
-Work experience
+Research Interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Engineering process control
+* Data preprocessing and analysis
+* Renewable energy technology
+* Machine learning for smart factory
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Research Experience
+======
+* **Smart Factory Capstone Design**, Sungkyunkwan University, Suwon, Korea — *Team Member* (Mar. 2026 – Present)
+  * Sensor–Image Multimodal Fusion Model for precision growth diagnosis of smart-farm tomatoes.
+  * Developing a pipeline to integrate sensor time-series and growth-image data.
+  * Establishing a foundation for data-driven automated growth prediction.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Intelligence & Process Systems Engineering Lab**, SKKU, Suwon, Korea — *Undergraduate Research Program (URP)* (Mar. 2026 – Present)
+  * Applying AI to process systems engineering.
+  * Fault and anomaly detection on industrial datasets.
+  * Soft sensors for real-time estimation of quality variables.
 
-Publications
+* **Capstone Design of Chemical Engineering**, SKKU, Suwon, Korea — *Team Member* (Mar. 2026 – Present)
+  * Improvement of IGU secondary seal using microcapsule-based self-healing PU.
+  * CO2 reduction through insulation of window frames.
+  * Self-healing polymerization triggered by microcapsules.
+
+* **Catalysis for Eco-friendly Energy Laboratory**, SKKU, Suwon, Korea — *Undergraduate Research Program (URP)* (Nov. 2025 – Jan. 2026)
+  * Cu-promoted ZnZrOx catalysts for CO2 hydrogenation to methanol.
+  * Synthesized catalysts via co-precipitation.
+  * Characterized materials using BET, XRD, TPR, and GC.
+
+Projects
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* **TomatoDiag: An Integrated Multimodal and Multi-task Diagnosis Framework for Tomato Cultivation** (Mar. 2026 – Jun. 2026)
+  * Fused sensor time-series and growth-image data for precision diagnosis of smart-farm tomatoes.
+  * Designed a multimodal, multi-task architecture for joint growth and condition diagnosis.
+  * Built a foundation for data-driven, automated growth prediction.
+
+Awards and Honors
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* Encouragement Award, Campus Carbon Neutrality Idea Contest, SKKU Institute for Carbon Neutrality, Korea (Feb. 2026)
+* Grand Prize, Chemic Academic Club Seminar on Chemical Engineering, Korea (Nov. 2025)
+
+Skills and Certifications
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* TOEIC Speaking: Intermediate High
+* Advanced Data Analytics Semi-Professional (ADsP)
+* Level 3 Certificate in Chinese Character Proficiency
+* Data Preprocessing and Analysis with Scikit-Learn in Python
