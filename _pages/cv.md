@@ -12,7 +12,6 @@ redirect_from:
 Education
 ======
 * B.S. in Chemical Engineering, Sungkyunkwan University (SKKU), Suwon, Korea, Mar. 2021 – Present
-  * GPA: 4.14 / 4.5
 
 Research Interests
 ======
@@ -23,17 +22,18 @@ Research Interests
 
 Research Experience
 ======
-* **Smart Factory Capstone Design**, Sungkyunkwan University, Suwon, Korea — *Team Member* (Mar. 2026 – Present)
-  * Sensor–Image Multimodal Fusion Model for precision growth diagnosis of smart-farm tomatoes.
-  * Developing a pipeline to integrate sensor time-series and growth-image data.
-  * Establishing a foundation for data-driven automated growth prediction.
+* **Smart Factory Capstone Design**, Sungkyunkwan University, Suwon, Korea — *Team Member* (Mar. 2026 – Jun. 2026)
+  * **TomatoDiag: An Integrated Multimodal and Multi-task Diagnosis Framework for Tomato Cultivation.**
+  * Built a Sensor–Image multimodal fusion model for precision growth diagnosis of smart-farm tomatoes.
+  * Integrated sensor time-series and growth-image data with a multi-task architecture for joint growth and condition diagnosis.
+  * Established a foundation for data-driven, automated growth prediction.
 
-* **Intelligence & Process Systems Engineering Lab**, SKKU, Suwon, Korea — *Undergraduate Research Program (URP)* (Mar. 2026 – Present)
+* **Intelligence & Process Systems Engineering Lab**, SKKU, Suwon, Korea — *Undergraduate Research Program (URP)* (Mar. 2026 – Jun. 2026)
   * Applying AI to process systems engineering.
   * Fault and anomaly detection on industrial datasets.
   * Soft sensors for real-time estimation of quality variables.
 
-* **Capstone Design of Chemical Engineering**, SKKU, Suwon, Korea — *Team Member* (Mar. 2026 – Present)
+* **Capstone Design of Chemical Engineering**, SKKU, Suwon, Korea — *Team Member* (Mar. 2026 – Jun. 2026)
   * Improvement of IGU secondary seal using microcapsule-based self-healing PU.
   * CO2 reduction through insulation of window frames.
   * Self-healing polymerization triggered by microcapsules.
@@ -42,13 +42,6 @@ Research Experience
   * Cu-promoted ZnZrOx catalysts for CO2 hydrogenation to methanol.
   * Synthesized catalysts via co-precipitation.
   * Characterized materials using BET, XRD, TPR, and GC.
-
-Projects
-======
-* **TomatoDiag: An Integrated Multimodal and Multi-task Diagnosis Framework for Tomato Cultivation** (Mar. 2026 – Jun. 2026)
-  * Fused sensor time-series and growth-image data for precision diagnosis of smart-farm tomatoes.
-  * Designed a multimodal, multi-task architecture for joint growth and condition diagnosis.
-  * Built a foundation for data-driven, automated growth prediction.
 
 Awards and Honors
 ======
