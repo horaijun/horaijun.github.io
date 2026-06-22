@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "CV"
+hide_title: true
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -47,10 +48,3 @@ Awards and Honors
 ======
 * Encouragement Award, Campus Carbon Neutrality Idea Contest, SKKU Institute for Carbon Neutrality, Korea (Feb. 2026)
 * Grand Prize, Chemic Academic Club Seminar on Chemical Engineering, Korea (Nov. 2025)
-
-Skills and Certifications
-======
-* TOEIC Speaking: Intermediate High
-* Advanced Data Analytics Semi-Professional (ADsP)
-* Level 3 Certificate in Chinese Character Proficiency
-* Data Preprocessing and Analysis with Scikit-Learn in Python

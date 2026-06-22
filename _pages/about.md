@@ -20,14 +20,5 @@ Research Interests
 - Renewable energy technology
 - Machine learning for smart factory
 
-Projects
-======
-**TomatoDiag: An Integrated Multimodal and Multi-task Diagnosis Framework for Tomato Cultivation** &nbsp;*(Mar. 2026 – Jun. 2026)*
-- Built an integrated framework that fuses sensor time-series and growth-image
-  data for precision diagnosis of smart-farm tomatoes.
-- Designed a multimodal, multi-task architecture that jointly performs growth
-  and condition diagnosis from heterogeneous inputs.
-- Established a foundation for data-driven, automated growth prediction.
-
 For a full list of my research experience, awards, and skills, please see my
 [CV](/cv/).
